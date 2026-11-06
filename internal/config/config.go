@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
 	"github.com/pelletier/go-toml/v2"
 )
 

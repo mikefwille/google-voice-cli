@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 // writePlaybookFile is a test helper that drops a fixture file at the

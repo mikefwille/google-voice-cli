@@ -21,8 +21,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
 )
 
 // sampleReadPermsSecret is an exposed on-disk token value. It is written into

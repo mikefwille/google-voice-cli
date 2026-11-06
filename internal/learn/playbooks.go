@@ -14,7 +14,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
 )
 
 // EntityResolver looks up a token in entity_lookups to find its

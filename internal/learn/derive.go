@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 // This file owns post-run flag-correction derivation: turning an

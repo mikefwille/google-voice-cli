@@ -18,10 +18,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cli"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
-	"github.com/mikemarqq/google-voice-cli/internal/learn"
+	"github.com/mikefwille/google-voice-cli/internal/cli"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/learn"
 )
 
 // withJournalHome isolates a test in a temp HOME with every journal

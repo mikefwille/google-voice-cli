@@ -11,7 +11,7 @@ builds:
     flags:
       - -trimpath
     ldflags:
-      - -s -w -X github.com/mikemarqq/google-voice-cli/internal/cli.version={{ .Version }}
+      - -s -w -X github.com/mikefwille/google-voice-cli/internal/cli.version={{ .Version }}
     targets:
       - darwin_amd64
       - darwin_arm64
@@ -46,9 +46,9 @@ checksum:
 brews:
   - name: google-voice-pp-cli
     repository:
-      owner: mikemarqq
+      owner: mikefwille
       name: homebrew-tap
-    homepage: "https://github.com/mikemarqq/google-voice-cli"
+    homepage: "https://github.com/mikefwille/google-voice-cli"
     description: "Read Google Voice through ordinary HTTP and recover evidence from a local message mirror."
     install: |
       bin.install "google-voice-pp-cli"

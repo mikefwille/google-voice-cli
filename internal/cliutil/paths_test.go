@@ -15,7 +15,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
 )
 
 func resetPathEnv(t *testing.T) string {

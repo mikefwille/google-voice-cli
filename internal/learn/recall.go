@@ -16,9 +16,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
-	"github.com/mikemarqq/google-voice-cli/internal/learn/lookups"
-	"github.com/mikemarqq/google-voice-cli/internal/learn/patterns"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/learn/lookups"
+	"github.com/mikefwille/google-voice-cli/internal/learn/patterns"
 )
 
 // Default thresholds. Keep in sync with the documented contract in

@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn/lookups"
+	"github.com/mikefwille/google-voice-cli/internal/learn/lookups"
 )
 
 // DefaultJaccardMin matches the recall-side floor. Applying the same

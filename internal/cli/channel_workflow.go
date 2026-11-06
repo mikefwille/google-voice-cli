@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 	"github.com/spf13/cobra"
 )
 

@@ -23,7 +23,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
 )
 
 // credsSampleReadPermsToken is an exposed on-disk token value written to the

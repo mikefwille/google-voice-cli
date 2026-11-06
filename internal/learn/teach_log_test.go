@@ -12,8 +12,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
 )
 
 func withTempHomeForLog(t *testing.T) string {

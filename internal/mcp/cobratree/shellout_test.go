@@ -20,8 +20,8 @@ import (
 
 	mcplib "github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/mcp/bound"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/mcp/bound"
 	"github.com/spf13/cobra"
 )
 

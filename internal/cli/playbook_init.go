@@ -32,9 +32,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cli/playbooks"
-	"github.com/mikemarqq/google-voice-cli/internal/learn"
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/cli/playbooks"
+	"github.com/mikefwille/google-voice-cli/internal/learn"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 // playbookSeedSentinelFamily is the synthetic query_family used to

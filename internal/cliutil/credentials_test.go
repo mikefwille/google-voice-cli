@@ -15,9 +15,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
-	"github.com/mikemarqq/google-voice-cli/internal/config"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/config"
 	"github.com/pelletier/go-toml/v2"
 )
 

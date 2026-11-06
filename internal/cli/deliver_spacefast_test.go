@@ -16,8 +16,8 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
 )
 
 func TestParseSpacefastDeliverSink(t *testing.T) {

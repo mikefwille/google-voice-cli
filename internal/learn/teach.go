@@ -20,7 +20,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
 )
 
 // Warning is one teach-time validation finding. The shape is the JSON

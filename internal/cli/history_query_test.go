@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
 )
 
 // TestNovelHistoryQueryHelpWires smoke-tests that the history query command

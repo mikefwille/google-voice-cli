@@ -1,4 +1,4 @@
-module github.com/mikemarqq/google-voice-cli
+module github.com/mikefwille/google-voice-cli
 
 go 1.26.10
 

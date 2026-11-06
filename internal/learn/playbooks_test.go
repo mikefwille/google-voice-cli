@@ -13,7 +13,7 @@ import (
 
 	_ "modernc.org/sqlite"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
 )
 
 // stubResolver is a test-only EntityResolver backed by an in-memory

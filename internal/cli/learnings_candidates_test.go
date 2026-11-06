@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn"
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/learn"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 // seedCandidate derives one candidate row directly through the store

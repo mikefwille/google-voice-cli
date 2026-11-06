@@ -17,11 +17,11 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil/testenv"
-	"github.com/mikemarqq/google-voice-cli/internal/learn"
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil/testenv"
+	"github.com/mikefwille/google-voice-cli/internal/learn"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 func unmarshalAgentResults(t *testing.T, stdout string, out any) {

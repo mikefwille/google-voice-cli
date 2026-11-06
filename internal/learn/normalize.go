@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
 )
 
 // NormalizedQuery is the entity-aware normalized representation of a

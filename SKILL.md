@@ -1,7 +1,7 @@
 ---
 name: pp-google-voice
 description: "Read Google Voice through ordinary HTTP and recover evidence from a local message mirror. Trigger phrases: `check my Google Voice messages`, `sync Google Voice history`, `search my Voice messages`, `what Google Voice history is collected`, `use google-voice`, `run google-voice`."
-author: "mikemarqq"
+author: "mikefwille"
 license: "Apache-2.0"
 argument-hint: "<command> [args] | install cli|mcp"
 allowed-tools: "Read Bash"
@@ -18,7 +18,7 @@ metadata:
 
 # Google Voice — Printing Press CLI
 
-> **Standalone repository:** install or build the executables from `github.com/mikemarqq/google-voice-cli` following README.md. The standard catalog section below applies after the Printing Press submission is merged and released. Verify the executable before proceeding.
+> **Standalone repository:** install or build the executables from `github.com/mikefwille/google-voice-cli` following README.md. The standard catalog section below applies after the Printing Press submission is merged and released. Verify the executable before proceeding.
 
 This reader is verified on macOS. Voice session and mirror storage use Unix ownership and permission checks; Windows storage fails closed until directory ACL validation is implemented.
 

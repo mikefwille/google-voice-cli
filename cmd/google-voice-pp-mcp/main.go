@@ -9,8 +9,8 @@ import (
 	"os"
 
 	"github.com/mark3labs/mcp-go/server"
-	"github.com/mikemarqq/google-voice-cli/internal/cli"
-	mcptools "github.com/mikemarqq/google-voice-cli/internal/mcp"
+	"github.com/mikefwille/google-voice-cli/internal/cli"
+	mcptools "github.com/mikefwille/google-voice-cli/internal/mcp"
 )
 
 // version is the printed MCP server's version, overridable at build time via ldflags.

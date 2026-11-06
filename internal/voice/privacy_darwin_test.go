@@ -3,7 +3,7 @@
 package voice
 
 import (
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
 	"os"
 	"os/exec"
 	"path/filepath"

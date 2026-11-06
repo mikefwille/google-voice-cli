@@ -6,7 +6,7 @@ Collect account-scoped message history with resumable pagination, then search it
 
 Learn more at [Google Voice](https://voice.google.com).
 
-Created by [@mikemarqq](https://github.com/mikemarqq).
+Created by [@mikefwille](https://github.com/mikefwille).
 
 ## Install
 
@@ -14,8 +14,8 @@ This is the standalone source repository for the Google Voice CLI generated with
 The executable names are `google-voice-pp-cli` and `google-voice-pp-mcp`.
 
 ```bash
-go install github.com/mikemarqq/google-voice-cli/cmd/google-voice-pp-cli@latest
-go install github.com/mikemarqq/google-voice-cli/cmd/google-voice-pp-mcp@latest
+go install github.com/mikefwille/google-voice-cli/cmd/google-voice-pp-cli@latest
+go install github.com/mikefwille/google-voice-cli/cmd/google-voice-pp-mcp@latest
 ```
 
 Or build both binaries from this checkout:

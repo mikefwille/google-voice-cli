@@ -7,7 +7,7 @@ package main
 import (
 	"os"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cli"
+	"github.com/mikefwille/google-voice-cli/internal/cli"
 )
 
 func main() {

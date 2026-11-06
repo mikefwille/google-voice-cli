@@ -17,8 +17,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/mikemarqq/google-voice-cli/internal/config"
-	"github.com/mikemarqq/google-voice-cli/internal/platform"
+	"github.com/mikefwille/google-voice-cli/internal/config"
+	"github.com/mikefwille/google-voice-cli/internal/platform"
 )
 
 func TestTruncateBody(t *testing.T) {

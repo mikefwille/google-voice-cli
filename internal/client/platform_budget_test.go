@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/platform"
+	"github.com/mikefwille/google-voice-cli/internal/platform"
 )
 
 func TestPlatformBudgetLookupContract(t *testing.T) {

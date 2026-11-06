@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/config"
+	"github.com/mikefwille/google-voice-cli/internal/config"
 )
 
 // recordingRoundTripper counts how many times its RoundTrip method is

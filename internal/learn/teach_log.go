@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
 )
 
 // teachLogStateDirName is the per-user state directory name.

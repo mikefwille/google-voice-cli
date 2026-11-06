@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
 )
 
 // verifyPrivatePerms returns a non-nil error if the file at path is group- or

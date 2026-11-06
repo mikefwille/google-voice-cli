@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/voice"
+	"github.com/mikefwille/google-voice-cli/internal/voice"
 	"github.com/spf13/cobra"
 	"os/exec"
 )

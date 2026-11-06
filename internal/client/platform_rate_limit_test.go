@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/config"
-	"github.com/mikemarqq/google-voice-cli/internal/platform"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/config"
+	"github.com/mikefwille/google-voice-cli/internal/platform"
 )
 
 func TestPlatformRateLimitRetriesSafeRequestAndRecordsMetadata(t *testing.T) {

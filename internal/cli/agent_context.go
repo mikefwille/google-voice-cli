@@ -8,8 +8,8 @@ import (
 	"encoding/json"
 	"sort"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/learn"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/learn"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 )

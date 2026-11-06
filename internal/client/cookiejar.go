@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
 )
 
 // cookieJar wraps an http.CookieJar so writes (server Set-Cookie response

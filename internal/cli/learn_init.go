@@ -24,8 +24,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 // newLearnConfig returns the per-CLI entity extractor Config the

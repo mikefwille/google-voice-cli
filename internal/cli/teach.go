@@ -29,12 +29,12 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/learn"
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
-	"github.com/mikemarqq/google-voice-cli/internal/learn/lookups"
-	"github.com/mikemarqq/google-voice-cli/internal/learn/patterns"
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/learn"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/learn/lookups"
+	"github.com/mikefwille/google-voice-cli/internal/learn/patterns"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 // noLearnEnvVar is the environment variable that disables the learning

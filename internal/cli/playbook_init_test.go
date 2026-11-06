@@ -19,9 +19,9 @@ import (
 	"testing"
 	"testing/fstest"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cli/playbooks"
-	"github.com/mikemarqq/google-voice-cli/internal/learn"
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/cli/playbooks"
+	"github.com/mikefwille/google-voice-cli/internal/learn"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 // twoPlaybookFS returns an fstest.MapFS with two minimal playbooks +

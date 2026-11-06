@@ -12,7 +12,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 )

@@ -13,8 +13,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/mikemarqq/google-voice-cli/internal/client"
-	"github.com/mikemarqq/google-voice-cli/internal/platform"
+	"github.com/mikefwille/google-voice-cli/internal/client"
+	"github.com/mikefwille/google-voice-cli/internal/platform"
 	"github.com/spf13/cobra"
 )
 

@@ -25,10 +25,10 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/mikemarqq/google-voice-cli/internal/client"
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
-	"github.com/mikemarqq/google-voice-cli/internal/config"
-	"github.com/mikemarqq/google-voice-cli/internal/platform"
+	"github.com/mikefwille/google-voice-cli/internal/client"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/config"
+	"github.com/mikefwille/google-voice-cli/internal/platform"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 )

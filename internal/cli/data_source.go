@@ -21,8 +21,8 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/mikemarqq/google-voice-cli/internal/client"
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/client"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 const networkFallbackReason = "api_unreachable"

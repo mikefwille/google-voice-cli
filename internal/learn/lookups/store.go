@@ -13,7 +13,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
 )
 
 // LookupRow is the canonical seed-row shape used by both the seeds

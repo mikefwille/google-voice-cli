@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/store"
+	"github.com/mikefwille/google-voice-cli/internal/store"
 )
 
 func openLearnings(t *testing.T) *store.Store {

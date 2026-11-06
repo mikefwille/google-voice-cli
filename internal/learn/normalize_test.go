@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mikemarqq/google-voice-cli/internal/learn/entities"
+	"github.com/mikefwille/google-voice-cli/internal/learn/entities"
 )
 
 func testConfig() *entities.Config {

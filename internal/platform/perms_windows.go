@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mikemarqq/google-voice-cli/internal/cliutil"
+	"github.com/mikefwille/google-voice-cli/internal/cliutil"
 )
 
 // verifyPrivatePerms reports an unsafe owner or DACL on stderr and allows the

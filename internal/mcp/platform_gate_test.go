@@ -13,10 +13,10 @@ import (
 
 	mcplib "github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
-	"github.com/mikemarqq/google-voice-cli/internal/cli"
-	"github.com/mikemarqq/google-voice-cli/internal/client"
-	"github.com/mikemarqq/google-voice-cli/internal/config"
-	"github.com/mikemarqq/google-voice-cli/internal/platform"
+	"github.com/mikefwille/google-voice-cli/internal/cli"
+	"github.com/mikefwille/google-voice-cli/internal/client"
+	"github.com/mikefwille/google-voice-cli/internal/config"
+	"github.com/mikefwille/google-voice-cli/internal/platform"
 )
 
 func TestMCPEveryRegisteredToolHasFreshTenantGate(t *testing.T) {
